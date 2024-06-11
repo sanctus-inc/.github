@@ -1,7 +1,5 @@
 ![Sanctus Logo](images/logo.png)
 
-# Sanctus
-
 Open-Source projects created and maintained by Sanctus.
 
 ## Our Mission
