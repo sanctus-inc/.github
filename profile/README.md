@@ -1,4 +1,4 @@
-![Sanctus Logo](images/logo.png)
+![Sanctus Logo](/images/logo.png)
 
 Open-Source projects created and maintained by Sanctus.
 
